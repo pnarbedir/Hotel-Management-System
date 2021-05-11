@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\DAL.dll.config
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\obj\Debug\DAL.dll
+C:\Users\Lenovo\source\repos\HotelManagementSystem\DAL\obj\Debug\DAL.pdb
